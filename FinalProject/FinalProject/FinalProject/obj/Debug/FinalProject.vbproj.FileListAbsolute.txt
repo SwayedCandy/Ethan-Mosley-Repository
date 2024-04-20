@@ -1,0 +1,14 @@
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.AssemblyReference.cache
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.frmMain.resources
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.cache
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.SplashScreenForm.resources
+E:\Visual Basic\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
