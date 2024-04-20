@@ -1,0 +1,12 @@
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\bin\Debug\Sales Project.exe.config
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\bin\Debug\Sales Project.exe
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\bin\Debug\Sales Project.pdb
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\bin\Debug\Sales Project.xml
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales Project.vbproj.AssemblyReference.cache
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales_Project.Resources.resources
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales Project.vbproj.GenerateResource.cache
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales Project.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales Project.exe
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales Project.xml
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales Project.pdb
+E:\Visual Basic\Sales Project\Sales Project\Sales Project\obj\Debug\Sales_Project.frmMain.resources
