@@ -1,0 +1,24 @@
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.exe.config
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.exe
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.pdb
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.xml
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.vbproj.AssemblyReference.cache
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore_s_Fast_Food.frmMain.resources
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore_s_Fast_Food.Resources.resources
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.vbproj.GenerateResource.cache
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.exe
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.xml
+E:\Visual Basic\Filmore's Fast Food V2\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.pdb
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.exe.config
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.exe
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.pdb
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\bin\Debug\Filmore's Fast Food.xml
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.vbproj.AssemblyReference.cache
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore_s_Fast_Food.frmMain.resources
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore_s_Fast_Food.Resources.resources
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.vbproj.GenerateResource.cache
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.exe
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.xml
+E:\Visual Basic\Filmore's Fast Food\Filmore's Fast Food\Filmore's Fast Food\obj\Debug\Filmore's Fast Food.pdb
