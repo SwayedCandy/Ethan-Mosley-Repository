@@ -1,0 +1,13 @@
+E:\Visual Basic\Demo1\Demo1\bin\Debug\Demo1.exe.config
+E:\Visual Basic\Demo1\Demo1\bin\Debug\Demo1.exe
+E:\Visual Basic\Demo1\Demo1\bin\Debug\Demo1.pdb
+E:\Visual Basic\Demo1\Demo1\bin\Debug\Demo1.xml
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.vbproj.AssemblyReference.cache
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.frmMain.resources
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.Resources.resources
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.vbproj.GenerateResource.cache
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.exe
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.xml
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.pdb
+E:\Visual Basic\Demo1\Demo1\obj\Debug\Demo1.SplashScreen1.resources
