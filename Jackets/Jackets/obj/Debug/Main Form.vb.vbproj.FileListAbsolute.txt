@@ -1,0 +1,12 @@
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Main Form.vb.vbproj.AssemblyReference.cache
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Jackets.Resources.resources
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Main Form.vb.vbproj.GenerateResource.cache
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Main Form.vb.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Jackets\Jackets\bin\Debug\Jackets.exe.config
+E:\Visual Basic\Jackets\Jackets\bin\Debug\Jackets.exe
+E:\Visual Basic\Jackets\Jackets\bin\Debug\Jackets.pdb
+E:\Visual Basic\Jackets\Jackets\bin\Debug\Jackets.xml
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Jackets.exe
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Jackets.xml
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Jackets.pdb
+E:\Visual Basic\Jackets\Jackets\obj\Debug\Jackets.frmMain.resources
