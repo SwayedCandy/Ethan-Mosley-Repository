@@ -1,0 +1,12 @@
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmMain.resources
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\Visual Basic\Rembrandt\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
