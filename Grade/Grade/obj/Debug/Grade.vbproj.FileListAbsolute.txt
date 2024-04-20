@@ -1,0 +1,12 @@
+E:\Visual Basic\Grade\Grade\bin\Debug\Grade.exe.config
+E:\Visual Basic\Grade\Grade\bin\Debug\Grade.exe
+E:\Visual Basic\Grade\Grade\bin\Debug\Grade.pdb
+E:\Visual Basic\Grade\Grade\bin\Debug\Grade.xml
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.vbproj.AssemblyReference.cache
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.Form1.resources
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.Resources.resources
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.vbproj.GenerateResource.cache
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.exe
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.xml
+E:\Visual Basic\Grade\Grade\obj\Debug\Grade.pdb
