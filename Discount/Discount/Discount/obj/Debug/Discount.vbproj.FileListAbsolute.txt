@@ -1,0 +1,12 @@
+E:\Visual Basic\Discount\Discount\Discount\bin\Debug\Discount.exe.config
+E:\Visual Basic\Discount\Discount\Discount\bin\Debug\Discount.exe
+E:\Visual Basic\Discount\Discount\Discount\bin\Debug\Discount.pdb
+E:\Visual Basic\Discount\Discount\Discount\bin\Debug\Discount.xml
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.vbproj.AssemblyReference.cache
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.frmMain.resources
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.Resources.resources
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.vbproj.GenerateResource.cache
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.exe
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.xml
+E:\Visual Basic\Discount\Discount\Discount\obj\Debug\Discount.pdb
