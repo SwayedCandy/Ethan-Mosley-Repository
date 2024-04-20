@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: gray;
+  padding: 10px;
+  text-align: center;
+}
+
+#calendar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.calendar-month {
+  box-sizing: border-box;
+  padding: 10px;
+  width: calc(100% / 4);
+  text-align: center;
+  height: calc(100vh / 3);
+}
+
+.calendar-month table {
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+}
+
+.calendar-month th {
+  background-color: gray;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.calendar-month td {
+  padding: 5px;
+  border: 1px solid black;
+  height: calc(100% / 6);
+}
+
+.current-day {
+  background-color: red;
+}
+
+#prevYearBtn, #currentMonthBtn, #nextYearBtn {
+  background-color: orange;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
