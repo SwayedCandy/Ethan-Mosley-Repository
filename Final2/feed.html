@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+		<link href="style.css" rel="stylesheet">
+        <title>New Page</title>
+        <style>
+          /* Add styles for the navigation bar */
+          /* Style for the navigation bar */
+            .navbar {
+                background-color: #333;
+                overflow: hidden;
+                display: flex;
+                justify-content: center;
+            }
+            
+            /* Style for the navigation bar links */
+            .navbar a {
+                float: left;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                transition: background-color 0.3s ease;
+            }
+            
+            /* Hover effect for the navigation bar links */
+            .navbar a:hover {
+                background-color: #ddd;
+                color: black;
+            }
+            
+            /* Popup text for the navigation bar links */
+            .navbar a .tooltip {
+                visibility: hidden;
+                position: absolute;
+                background-color: black;
+                color: #fff;
+                padding: 5px;
+                z-index: 1;
+                border-radius: 5px;
+                opacity: 0;
+                transition: opacity 0.3s;
+            }
+            
+            /* Popup text for the navigation bar links (visible) */
+            .navbar a:hover .tooltip {
+                visibility: visible;
+                opacity: 1;
+            }
+            
+            /* Style for the welcome message */
+            #welcome {
+                text-align: center;
+                margin-top: 50px;
+                font-size: 24px;
+            }
+            
+            /* Style for the general info section */
+            #info {
+                margin-top: 30px;
+                margin-bottom: 50px;
+                text-align: center;
+                font-size: 18px;
+            }
+        </style>
+      </head>
+      <body>
+        <div class="navbar">
+			<a href="#" class="active">
+				<li><a href="new.html">Home</a></li>
+			</a>
+            <a href="#" class="active">
+                <li><a href="sched.html">Schedule</a></li>
+            </a>
+            <a href="#">
+                <li><a href="bio.html">Bio</a></li>
+            </a>
+            <a href="#">
+                <li><a href="feed.html">Feedback</a></li>
+            </a>
+        </div> 
+<head>
+	<title>Feedback Form</title>
+	<style>
+		form {
+			width: 50%;
+			margin: auto;
+		}
+		label {
+			display: block;
+			margin-bottom: 10px;
+		}
+		input[type="text"], input[type="email"], select, textarea {
+			width: 100%;
+			padding: 10px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			margin-bottom: 20px;
+			box-sizing: border-box;
+			font-size: 16px;
+			font-family: Arial, sans-serif;
+		}
+		textarea {
+			height: 150px;
+			resize: none;
+		}
+		input[type="submit"], input[type="reset"] {
+			padding: 10px 20px;
+			border-radius: 5px;
+			background-color: #4CAF50;
+			color: white;
+			border: none;
+			font-size: 16px;
+			cursor: pointer;
+		}
+		input[type="submit"]:hover, input[type="reset"]:hover {
+			background-color: #45a049;
+		}
+		.credit-card {
+			margin-top: 30px;
+		}
+		.credit-card label {
+			display: block;
+			margin-bottom: 10px;
+		}
+		.credit-card input[type="text"] {
+			width: 80%;
+		}
+		.credit-card input[type="submit"] {
+			width: 20%;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<div class="feedbacktitle">
+		<h1>Feedback Form</h1>
+		</div>
+	</header>
+	<main>
+		<form>
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" required>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email" required>
+			<label for="gender">Gender:</label>
+			<select id="gender" name="gender" required>
+				<option value="">Select Gender</option>
+				<option value="male">Male</option>
+				<option value="female">Female</option>
+				<option value="other">Other</option>
+			</select>
+			<label for="age">Age:</label>
+			<input type="text" id="age" name="age" required>
+			<label for="feedback">Feedback:</label>
+			<textarea id="feedback" name="feedback" required></textarea>
+			<input type="submit" value="Submit">
+			<input type="reset" value="Reset">
+		</form>
+		<div class="credit-card">
+			<h2>Make a Contribution</h2>
+			<p>Enter your credit card information to make a contribution to the campaign:</p>
+			<form>
+				<label for="card-name">Name on Card:</label>
+				<input type="text" id="card-name" name="card-name" required>
+				<label for="card-number">Card Number:</label>
+				<input type="text" id="card-number" name="card-number">

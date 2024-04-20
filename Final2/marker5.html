@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+	<link href="style.css" rel="stylesheet">
+    <title>Patrick Star's Campaign Locations in South Carolina</title>
+	<style>
+		/* Add styles for the navigation bar */
+		/* Style for the navigation bar */
+		  .navbar {
+			  background-color: #333;
+			  overflow: hidden;
+			  display: flex;
+			  justify-content: center;
+		  }
+		  
+		  /* Style for the navigation bar links */
+		  .navbar a {
+			  float: left;
+			  color: white;
+			  text-align: center;
+			  padding: 14px 16px;
+			  text-decoration: none;
+			  transition: background-color 0.3s ease;
+		  }
+		  
+		  /* Hover effect for the navigation bar links */
+		  .navbar a:hover {
+			  background-color: #ddd;
+			  color: black;
+		  }
+		  
+		  /* Popup text for the navigation bar links */
+		  .navbar a .tooltip {
+			  visibility: hidden;
+			  position: absolute;
+			  background-color: black;
+			  color: #fff;
+			  padding: 5px;
+			  z-index: 1;
+			  border-radius: 5px;
+			  opacity: 0;
+			  transition: opacity 0.3s;
+		  }
+		  
+		  /* Popup text for the navigation bar links (visible) */
+		  .navbar a:hover .tooltip {
+			  visibility: visible;
+			  opacity: 1;
+		  }
+		  
+		  /* Style for the welcome message */
+		  #welcome {
+			  text-align: center;
+			  margin-top: 50px;
+			  font-size: 24px;
+		  }
+		  
+		  /* Style for the general info section */
+		  #info {
+			  margin-top: 30px;
+			  margin-bottom: 50px;
+			  text-align: center;
+			  font-size: 18px;
+		  }
+  
+		  #picture {
+			  text-align: center;
+			  padding-top: 20px;
+              border-radius: 25px;
+		  }
+
+          h1 {
+            text-align: center;
+            background-color: rgb(42, 169, 228);
+            border-radius: 25px;
+          }
+
+          p {
+            text-align: center;
+            background-color: rgb(42, 169, 228);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 5px;
+			padding-right: 5px;
+            border-radius: 25px;
+          }
+
+          #hiltonhead {
+            width: 800px;
+            border-radius: 25px;
+          }
+
+		  #map-link {
+			background-color: rgb(42, 169, 228);
+			color: black;
+			text-decoration: none;
+			font-size: 25px;
+			border-radius: 25px;
+			padding-top: 2.5px;
+            padding-bottom: 2.5px;
+			padding-left: 5px;
+			padding-right: 5px;
+          }
+	  </style>
+  </head>
+  <body>
+	<div class="container">
+		<div class="navbar">
+			<a href="#" class="active">
+				<li><a href="new.html">Home</a></li>
+			</a>
+			<a href="#" class="active">
+				<li><a href="sched.html">Schedule</a></li>
+			</a>
+			<a href="#">
+				<li><a href="bio.html">Bio</a></li>
+			</a>
+			<a href="#">
+				<li><a href="feed.html">Feedback</a></li>
+			</a>
+		</div> 
+    <h1>Hilton Head Island</h1>
+    <p>
+        Mr. Star's final stop will be at the beautiful Hilton Head Island!
+        Hilton Head Island is part of the Lowcountry region in the U.S. state of South Carolina. It's known for Atlantic Ocean beaches and golf courses. 
+        The Harbour Town Lighthouse and Museum marks the southwest tip. The Coastal Discovery Museum features heritage buildings, 
+        trees and themed gardens. Between the island and mainland, the Pinckney Island National Wildlife Refuge salt marsh hosts deer, alligators and birds.
+    </p>
+    <div class="hiltonhead">
+    <img id="hiltonhead" src="hiltonhead.jpg" alt="Hilton Head Island">
+    </div>
+    <div style="text-align:center">
+    	<a href="map.html" id="map-link">Click to go back to the map!</a>    
+	</div> 
+  </body>
+</html>

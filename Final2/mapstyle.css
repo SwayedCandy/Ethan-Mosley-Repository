@@ -1,0 +1,25 @@
+#map-link {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    border: 2px solid #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  #map-link:hover {
+    background-color: #333;
+    color: #fff;
+  }
+
+  img {
+    padding-top: 10px;
+    display: block;
+    margin: auto;
+    height: 350px;
+  }
+  
