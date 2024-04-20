@@ -1,0 +1,12 @@
+E:\Visual Basic\GPA\GPA\GPA\bin\Debug\GPA.exe.config
+E:\Visual Basic\GPA\GPA\GPA\bin\Debug\GPA.exe
+E:\Visual Basic\GPA\GPA\GPA\bin\Debug\GPA.pdb
+E:\Visual Basic\GPA\GPA\GPA\bin\Debug\GPA.xml
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.vbproj.AssemblyReference.cache
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.frmMain.resources
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.Resources.resources
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.vbproj.GenerateResource.cache
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.exe
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.xml
+E:\Visual Basic\GPA\GPA\GPA\obj\Debug\GPA.pdb
